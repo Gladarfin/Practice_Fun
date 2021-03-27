@@ -1,0 +1,9 @@
+D:\git_site\Practice_CSharp_Fun\Starfield\Starfield\Starfield\obj\Debug\Starfield.Form1.resources
+D:\git_site\Practice_CSharp_Fun\Starfield\Starfield\Starfield\obj\Debug\Starfield.Properties.Resources.resources
+D:\git_site\Practice_CSharp_Fun\Starfield\Starfield\Starfield\obj\Debug\Starfield.csproj.GenerateResource.cache
+D:\git_site\Practice_CSharp_Fun\Starfield\Starfield\Starfield\obj\Debug\Starfield.csproj.CoreCompileInputs.cache
+D:\git_site\Practice_CSharp_Fun\Starfield\Starfield\Starfield\bin\Debug\Starfield.exe.config
+D:\git_site\Practice_CSharp_Fun\Starfield\Starfield\Starfield\bin\Debug\Starfield.exe
+D:\git_site\Practice_CSharp_Fun\Starfield\Starfield\Starfield\bin\Debug\Starfield.pdb
+D:\git_site\Practice_CSharp_Fun\Starfield\Starfield\Starfield\obj\Debug\Starfield.exe
+D:\git_site\Practice_CSharp_Fun\Starfield\Starfield\Starfield\obj\Debug\Starfield.pdb
