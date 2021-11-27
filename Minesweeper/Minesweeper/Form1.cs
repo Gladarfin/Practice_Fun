@@ -58,6 +58,7 @@ namespace Minesweeper
                 TabStop = false,
             };
             b.Click += FieldElem_Click;
+            b.MouseUp += FieldElem_RightClick;
             gamePanel.Controls.Add(b);
         }
 
@@ -68,12 +69,13 @@ namespace Minesweeper
                 ImageSize = new Size(32, 32)
             };
             Imgs.Images.Add(Properties.Resources.bomb);
+            Imgs.Images.Add(Properties.Resources.flag);
         }
 
         private void btnRestart_Click(object sender, EventArgs e)
         {
             ResetField();
-            Game.RestartGame(Columns, Rows);
+            Game.RestartGame();
             bombCount.Text = Game.BombsCount();
         }
 
@@ -90,6 +92,10 @@ namespace Minesweeper
 
         private void FieldElem_Click(object sender, EventArgs e)
         {
+            NoSelectButton btn = (NoSelectButton)sender;
+            if (btn.BackgroundImage != base.BackgroundImage)
+                return;
+
             if (Game.IsGameInProgress())
                 return;
             NoSelectButton clickedButton = (NoSelectButton)sender;
@@ -112,6 +118,18 @@ namespace Minesweeper
             }
         }
 
+        private void FieldElem_RightClick(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Right)
+            {
+                NoSelectButton btn = (NoSelectButton)sender;
+                if (btn.BackgroundImage == base.BackgroundImage)
+                    btn.BackgroundImage = Imgs.Images[1];               
+                else
+                    btn.BackgroundImage = base.BackgroundImage;
+            }
+        }
+       
         private void GameOver()
         {
             List<int> bombsList = Game.IsGameOver();
@@ -143,5 +161,6 @@ namespace Minesweeper
                 }
             }
         }
+
     }
 }
