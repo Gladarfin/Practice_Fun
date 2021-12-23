@@ -1,0 +1,26 @@
+[{
+        "questionNumber": 1,
+        "question": "There are 5 Islands in a row. Parker the Paranoid Pirate has a ton of gold hidden on one of them. \nDuring the day you have enough time to sail to just one island to find the gold.\n But every night Parker moves all that gold exactly one island over (so if it was on island 4 it gets moved to either island 3 or 5). \n What strategy can you use to have the best chance of finding the gold? \nIs it possible to be sure of finding the gold?",
+        "answersCount": 5
+    },
+    {
+        "questionNumber": 2,
+        "question": "5 pirates of different ages have a treasure of 100 gold coins.\n On their ship, they decide to split the coins using this scheme:\nThe oldest pirate proposes how to share the coins, and ALL pirates (including the oldest) vote for or against it.\nIf 50% or more of the pirates vote for it, then the coins will be shared that way. Otherwise, the pirate proposing the scheme will be thrown overboard, and the process is repeated with the pirates that remain.\nAs pirates tend to be a bloodthirsty bunch, if a pirate would get the same number of coins if he voted for or against a proposal, he will vote against so that the pirate who proposed the plan will be thrown overboard.\nAssuming that all 5 pirates are intelligent, rational, greedy, and do not wish to die, (and are rather good at math for pirates) what will happen?",
+        "answersCount": 3
+    },
+    {
+        "questionNumber": 3,
+        "question": "You are at an unmarked intersection ... one way is the City of Lies and another way is the City of Truth.\n Citizens of the City of Lies always lie.\nCitizens of the City of Truth always tell the truth.\n A citizen of one of those cities (you don\"t know which) is at the intersection. What question could you ask to them to find the way to the City of Truth?",
+        "answersCount": 4
+    },
+    {
+        "questionNumber": 4,
+        "question": "Four people are traveling to different places on different types of transport.\nTheir names are: Rachel, John, Mr. Jones and Cindy.\nThey either went on train, car, plane or ship.\n• Mr. Jones hates flying\n• Cindy has to rent her vehicle\n• John gets seasick\nHow did they each travel?",
+        "answersCount": 4
+    },
+    {
+        "questionNumber": 5,
+        "question": "There are three people (Alex, Brook and Cody), one of whom is a knight, one a knave, and one a spy.\nThe knight always tells the truth, the knave always lies, and the spy can either lie or tell the truth.\nAlex says: 'Cody is a knave.'\n Brook says: 'Alex is a knight.'\nCody says: 'I am the spy.'\n Who is the knight, who the knave, and who the spy?",
+        "answersCount": 5
+    }
+]
