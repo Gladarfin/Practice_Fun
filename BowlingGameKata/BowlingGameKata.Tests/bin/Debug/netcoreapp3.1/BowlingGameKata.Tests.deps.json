@@ -1090,7 +1090,7 @@
       "xunit.runner.visualstudio/2.4.3": {},
       "BowlingGameKata/1.0.0": {
         "runtime": {
-          "BowlingGameKata.exe": {}
+          "BowlingGameKata.dll": {}
         }
       }
     }

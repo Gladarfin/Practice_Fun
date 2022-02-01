@@ -1,0 +1,9 @@
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\bin\Debug\netstandard2.0\BowlingGameKata.deps.json
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\bin\Debug\netstandard2.0\BowlingGameKata.dll
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\bin\Debug\netstandard2.0\BowlingGameKata.pdb
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\obj\Debug\netstandard2.0\BowlingGameKata.csprojAssemblyReference.cache
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\obj\Debug\netstandard2.0\BowlingGameKata.AssemblyInfoInputs.cache
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\obj\Debug\netstandard2.0\BowlingGameKata.AssemblyInfo.cs
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\obj\Debug\netstandard2.0\BowlingGameKata.csproj.CoreCompileInputs.cache
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\obj\Debug\netstandard2.0\BowlingGameKata.dll
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\obj\Debug\netstandard2.0\BowlingGameKata.pdb

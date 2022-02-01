@@ -30,11 +30,11 @@ namespace BowlingGameKata
                 {
                     if (IsSpare(frameIndex))
                     {
-                        score += 10 + rolls[frameIndex + 2];                      
+                        score += 10 + rolls[frameIndex + 2];
                     }
                     else
                     {
-                        score += rolls[frameIndex] + rolls[frameIndex + 1];                     
+                        score += rolls[frameIndex] + rolls[frameIndex + 1];
                     }
                     frameIndex += 2;
                 }
