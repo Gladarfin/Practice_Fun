@@ -1,0 +1,6 @@
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\bin\Debug\BowlingGameKata.exe.config
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\bin\Debug\BowlingGameKata.exe
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\bin\Debug\BowlingGameKata.pdb
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.csproj.CoreCompileInputs.cache
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.exe
+D:\Projects\Practice_Fun\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.pdb
